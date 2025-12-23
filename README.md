@@ -161,9 +161,9 @@ Core sensors were fully validated, while non-critical components were deferred d
 > Note: Two firmware builds exist (non-SD main PCB and SD-enabled second PCB).
 > Code may not be public due to course policy.
 
-- **Application:**https://github.com/ese5160/final-project-t12-andrew-and-kiet/tree/main/Application
-- **Bootloader:**https://github.com/ese5160/final-project-t12-andrew-and-kiet/tree/main/Bootloader
-- **Node-RED:**https://github.com/ese5160/final-project-t12-andrew-and-kiet/tree/main/Node-Red
+- **Application:** https://github.com/ese5160/final-project-t12-andrew-and-kiet/tree/main/Application
+- **Bootloader:** https://github.com/ese5160/final-project-t12-andrew-and-kiet/tree/main/Bootloader
+- **Node-RED:** https://github.com/ese5160/final-project-t12-andrew-and-kiet/tree/main/Node-Red
 - **Other Software:**
   https://github.com/ese5160/final-project-t12-andrew-and-kiet/tree/main/avboard
 
