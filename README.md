@@ -19,7 +19,9 @@ The project emphasizes reliable FreeRTOS task design, interrupt-driven drivers, 
 ![1746640717713](image/README/1746640717713.png)
 
 **Final Version (with image and audio features):**
-https://drive.google.com/file/d/18tD0LWCVBPJNzHUb0mOsfyb1iBhmIJxS/view?usp=sharing
+
+
+[Video Demo](https://drive.google.com/file/d/18tD0LWCVBPJNzHUb0mOsfyb1iBhmIJxS/view?usp=sharing)
 
 ## System Architecture
 
