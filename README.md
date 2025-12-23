@@ -6,7 +6,7 @@
 
 ## Overview
 
-Dog Watch is a network-connected smart dog feeder built on an ATSAMW25 (SAMD21 + WINC1500) running FreeRTOS.
+Dog Watch is a network-connected smart dog feeder built on an ATSAMW25 (SAMD21 + WINC1500) using FreeRTOS.
 It measures food level with an 8-point VEML7700 + TCA9548A I2C mux sensor array, monitors tank and bowl water status using ADC + float sensing, and tracks device tilt using an LSM6DSOX IMU.
 
 The device publishes telemetry and events over MQTT and receives commands in real time from a Node-RED dashboard hosted on Azure.
