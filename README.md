@@ -1,6 +1,7 @@
 # Dog Watch — Smart IoT Dog Feeder
 
 **Embedded Systems · FreeRTOS · IoT · Cloud Integration**
+
 **Authors:** Kiet Cao, Andrew Katz
 
 ## Overview
