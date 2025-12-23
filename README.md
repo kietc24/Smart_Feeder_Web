@@ -23,6 +23,7 @@ The project emphasizes reliable FreeRTOS task design, interrupt-driven drivers, 
 
 [Video Demo](https://drive.google.com/file/d/18tD0LWCVBPJNzHUb0mOsfyb1iBhmIJxS/view?usp=sharing)
 
+
 ## System Architecture
 
 ### Core Controller
